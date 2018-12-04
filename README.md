@@ -14,3 +14,6 @@ Source code of [Third lecture](https://qiita.com/Y_F_Acoustics/items/b0c9e055304
 
 ###5
 Source code of [4th lecture](https://qiita.com/Y_F_Acoustics/items/9288f614c23085db2d9b).
+
+###6
+Source code of [5th lecture](https://qiita.com/Y_F_Acoustics/items/b386ff8da11e2c912712).
