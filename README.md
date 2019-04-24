@@ -19,4 +19,4 @@ Source code of [4th lecture](https://qiita.com/Y_F_Acoustics/items/9288f614c2308
 Source code of [5th lecture](https://qiita.com/Y_F_Acoustics/items/b386ff8da11e2c912712).
 
 ###7
-Source code of [7th lecture]().
+Source code of [7th lecture](https://qiita.com/Y_F_Acoustics/items/af7b040f9e7eb77b0f3a).
